@@ -1,1 +1,1 @@
-consle.log(let's see);
+consle.log("let's see");
